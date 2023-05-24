@@ -2,14 +2,8 @@
 
 I'm Ziad DJOUAL a data analyst and a software developer. I am a person who is passionate about learning in the field of data analysis.
 
-:mailbox: Contact Me!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziaddjoual/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:djoual.z.a@gmail.com)
-
-<!-- TODO: Add last video link -->
-
 - 🔭 I’m currently looking for a job.
-- 📫 How to reach me: islempenywis@gmail.com.
+- 📫 Contact Me: djoual.z.a@gmail.com
 
 #### My website
 - :paperclip: [My Website](https://ziaddjoual.github.io/Website/)
