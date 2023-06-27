@@ -6,7 +6,7 @@ I'm Ziad DJOUAL a data analyst and a software developer. I am a person who is pa
 - 📫 Contact Me: djoual.z.a@gmail.com
 
 #### My website
-- :paperclip: [My Website](https://ziaddjoual.github.io/Website/)
+- :paperclip: [My Website](https://ziaddjoual.github.io/Portfolio/)
 
 <details>
 <summary>
